@@ -30,7 +30,12 @@ utilized:
 - [Visual Studio Code (IDE)](https://code.visualstudio.com/)
 
 
+## INSTALLATION :
 
+To get started with NewsCastAI run :
+
+     npm i && npm start 
+     
 
 ## RESULTS : 
 
@@ -77,7 +82,8 @@ Based on the provided screenshot, when the user asks the assistant to open a spe
 
 ![image](https://github.com/Saksham-Gupta-24/NewsCastAI/assets/114461220/1424db74-ce21-471a-ad31-7ddf4d958632)
 
-![image](https://github.com/Saksham-Gupta-24/NewsCastAI/assets/114461220/f8e1f246-0acf-47e3-bae5-4cf14f4a7ae3)
+![Screenshot (226)](https://github.com/Saksham-Gupta-24/NewsCastAI/assets/114461220/86fe373c-8ff2-4f84-9113-93e6eca64987)
+
 
 when the user gives the command to "Go Back," the system will navigate or return to the main page of the website
 
